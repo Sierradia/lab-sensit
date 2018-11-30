@@ -75,8 +75,6 @@ My Sens'it ID: <YOUR_SENSIT_ID>
 
 6. In `./sensit-sdk-v2.0.0/sdk/` (where the `Makefile` is), execute: `"C:/Users/<YOUR_PATH>/GnuWin32/bin/make.exe" temperature`
 
-Now check on the Sigfox Backend if you received some messages.
-
 ## Program your Sens'it
 
 To program your Sens'it you will need to put it in bootloader:
