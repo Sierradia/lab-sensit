@@ -129,7 +129,7 @@ Your Sens'it messages must now be appearing on the platform and you should also 
 
 Implement a new firmware in the `main.c` file (located in `./sensit-sdk-v2.0.0/sdk/src/`).
 
-- To compile use `make main`. This command will also let you verify your code.
+- To compile use `make all`. This command will also let you verify your code.
 - To flash your Sens'it you will need to put it in bootloader:
     1. Connect your device to your computer.
     2. Reset your device. With one of the provided firmwares you can do this with 4 short presses on the button.
